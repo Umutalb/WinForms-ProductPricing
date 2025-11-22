@@ -19,7 +19,7 @@ This project is built for learning purposes and demonstrates essential WinForms 
 
 ---
 
-## 🏗️ Technologies Used
+## Technologies Used
 
 - C#  
 - .NET 10 (Windows Forms)  
